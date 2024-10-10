@@ -1,5 +1,6 @@
 // string is an object
 // to concatenate string
+//string in js is immutable to maintain data integity and also ensure that string behave in predictive behave accross different operation
 const name = "abhishek"
 const repocount = 50
 //console.log(name + repocount + " Value");
